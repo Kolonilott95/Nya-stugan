@@ -1,6 +1,13 @@
 // Byggdagbok – inlägg och bildsökvägar
 const entries = [
   {
+    "id": 32,
+    "date": "2026-10-20",
+    "title": "Tills spikhuvudena försvann",
+    "body": "M\u00f6rkret best\u00e4mmer n\u00e4r arbetsdagen slutar i oktober. Inte klockan, inte orken \u2013 m\u00f6rkret.\n\nTrettio minuter. Lite l\u00e4kt uppe. Det \u00e4r vad skymningen l\u00e4mnade utrymme f\u00f6r \u2013 och l\u00e4kt \u00e4r inte bara att spika fast. Den ska snes\u00e5gas, kapas i r\u00e4tt l\u00e4ngder. Tiden g\u00e5r \u00e5t till mer \u00e4n det ser ut som.\n\nMan ser spikhuvudena tills man inte g\u00f6r det l\u00e4ngre. D\u00e5 \u00e4r det dags att sluta.",
+    "images": ["https://raw.githubusercontent.com/Kolonilott95/Nya-stugan/main/bilder/2026-10-20/01.jpg", "https://raw.githubusercontent.com/Kolonilott95/Nya-stugan/main/bilder/2026-10-20/02.jpg"]
+  },
+  {
     "id": 31,
     "date": "2026-10-18",
     "title": "Vindpappens dag",
